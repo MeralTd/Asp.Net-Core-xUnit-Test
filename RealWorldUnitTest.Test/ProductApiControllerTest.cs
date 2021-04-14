@@ -74,5 +74,30 @@ namespace RealWorldUnitTest.Test
             Assert.Equal(product.Name, returnProduct.Name);
         }
 
+        [Theory]
+        [InlineData(1)]
+        public void PutProduct_IdIsNotEqualProduct_ReturnBadRequestResult(int productId)
+        {
+            var product = products.First(x => x.Id == productId);
+
+            var result = _controller.PutProduct(2, product);
+
+            Assert.IsType<BadRequestResult>(result);
+        }
+
+        [Theory]
+        [InlineData(1)]
+        public void PutProduct_ActionExecutes_ReturnNoContent(int productId)
+        {
+            var product = products.First(x => x.Id == productId);
+
+            _mockRepo.Setup(r => r.Update(product));
+
+            var result = _controller.PutProduct(productId, product);
+
+            _mockRepo.Verify(r => r.Update(product), Times.Once);
+
+            Assert.IsType<NoContentResult>(result);
+        }
     }
 }

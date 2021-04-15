@@ -214,3 +214,4 @@ C:\Users\toshıba\source\repos\RealWorldUnitTest\RealWorldUnitTest.Test\obj\Debu
 C:\Users\toshıba\source\repos\RealWorldUnitTest\RealWorldUnitTest.Test\obj\Debug\net5.0\ref\RealWorldUnitTest.Test.dll
 C:\Users\toshıba\source\repos\RealWorldUnitTest\RealWorldUnitTest.Test\obj\Debug\net5.0\RealWorldUnitTest.Test.pdb
 C:\Users\toshıba\source\repos\RealWorldUnitTest\RealWorldUnitTest.Test\obj\Debug\net5.0\RealWorldUnitTest.Test.genruntimeconfig.cache
+C:\Users\toshıba\source\repos\RealWorldUnitTest\RealWorldUnitTest.Test\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll

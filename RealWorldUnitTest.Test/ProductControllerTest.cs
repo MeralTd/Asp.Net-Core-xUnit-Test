@@ -15,6 +15,7 @@ namespace RealWorldUnitTest.Test
         public void SetContextOptions(DbContextOptions<UnitTestDBContext> contextOptions)
         {
             _contextOptions = contextOptions;
+            Seed();
         }
 
         public void Seed()

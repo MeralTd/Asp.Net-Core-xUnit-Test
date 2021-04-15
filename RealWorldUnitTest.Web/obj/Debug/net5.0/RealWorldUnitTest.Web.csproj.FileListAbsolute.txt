@@ -9,7 +9,6 @@ C:\Users\toshıba\source\repos\RealWorldUnitTest\RealWorldUnitTest.Web\bin\Debug
 C:\Users\toshıba\source\repos\RealWorldUnitTest\RealWorldUnitTest.Web\bin\Debug\net5.0\RealWorldUnitTest.Web.pdb
 C:\Users\toshıba\source\repos\RealWorldUnitTest\RealWorldUnitTest.Web\bin\Debug\net5.0\RealWorldUnitTest.Web.Views.dll
 C:\Users\toshıba\source\repos\RealWorldUnitTest\RealWorldUnitTest.Web\bin\Debug\net5.0\RealWorldUnitTest.Web.Views.pdb
-C:\Users\toshıba\source\repos\RealWorldUnitTest\RealWorldUnitTest.Web\obj\Debug\net5.0\RealWorldUnitTest.Web.csprojAssemblyReference.cache
 C:\Users\toshıba\source\repos\RealWorldUnitTest\RealWorldUnitTest.Web\obj\Debug\net5.0\RealWorldUnitTest.Web.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\toshıba\source\repos\RealWorldUnitTest\RealWorldUnitTest.Web\obj\Debug\net5.0\RealWorldUnitTest.Web.AssemblyInfoInputs.cache
 C:\Users\toshıba\source\repos\RealWorldUnitTest\RealWorldUnitTest.Web\obj\Debug\net5.0\RealWorldUnitTest.Web.AssemblyInfo.cs
@@ -149,3 +148,4 @@ C:\Users\toshıba\source\repos\RealWorldUnitTest\RealWorldUnitTest.Web\obj\Debug
 C:\Users\toshıba\source\repos\RealWorldUnitTest\RealWorldUnitTest.Web\obj\Debug\net5.0\Razor\Views\Products\Details.cshtml.g.cs
 C:\Users\toshıba\source\repos\RealWorldUnitTest\RealWorldUnitTest.Web\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
 C:\Users\toshıba\source\repos\RealWorldUnitTest\RealWorldUnitTest.Web\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
+C:\Users\toshıba\source\repos\RealWorldUnitTest\RealWorldUnitTest.Web\obj\Debug\net5.0\RealWorldUnitTest.Web.csprojAssemblyReference.cache

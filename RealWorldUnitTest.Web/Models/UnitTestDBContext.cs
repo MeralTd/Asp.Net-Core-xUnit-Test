@@ -37,7 +37,7 @@ namespace RealWorldUnitTest.Web.Models
                 entity.Property(e => e.Price).HasColumnType("decimal(18, 2)");
             });
 
-            modelBuilder.Entity<Category>().HasData(new Category { Id = 1, Name = "Kalemler" }, new Category { Id = 2, Name = "Defterler" });
+            //modelBuilder.Entity<Category>().HasData(new Category { Id = 1, Name = "Kalemler" }, new Category { Id = 2, Name = "Defterler" });
 
             OnModelCreatingPartial(modelBuilder);
         }
